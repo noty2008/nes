@@ -1,2 +1,4 @@
 # nes
-NES emulator for Go
+NES simulator for Go.
+
+Still under development.
